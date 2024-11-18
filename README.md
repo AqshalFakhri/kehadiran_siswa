@@ -1,16 +1,12 @@
-# kehadiran_siswa
+# Nama:AqshalFakhri Eka Surya Saputra NIM:362358302071 Kelas:2A TRPL
 
-A new Flutter project.
 
-## Getting Started
+**HASIL**
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-11-18 095434](https://github.com/user-attachments/assets/dcd75fcf-2bb2-4ac1-b353-13e99046d148)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2024-11-18 095449](https://github.com/user-attachments/assets/b31e9474-93a1-4779-bf64-e8d2fb722a42)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot 2024-11-18 095533](https://github.com/user-attachments/assets/d77e6e8e-6b9e-44a4-b185-1fbf9517e8d7)
